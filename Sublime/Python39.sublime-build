@@ -1,0 +1,5 @@
+{
+	"shell_cmd": ["/home/10743864@ltimindtree.com/om/bin/python3", "-u", "$file"],
+    "file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+    "selector": "source.python"
+}
